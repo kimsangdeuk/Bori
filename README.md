@@ -1,2 +1,0 @@
-# Bori
-Bori - Programming Language
